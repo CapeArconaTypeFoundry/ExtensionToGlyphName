@@ -15,3 +15,6 @@ If an extension is already set in the glyph name, it strips out the extension na
 
 Requirements:
 FontLab Studio 5
+
+
+![Add Extension to glyphs in Fontlab](https://github.com/CapeArconaTypeFoundry/ExtensionToGlyphName/blob/master/add_extension.png)
